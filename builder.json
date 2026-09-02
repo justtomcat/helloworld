@@ -1,0 +1,17 @@
+{
+  "project": "HelloApp",
+  "platform": "ios",
+  "github": {
+    "owner": "justtomcat",
+    "repo": "helloworld"
+  },
+  "ios": {
+    "path": "ios"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
